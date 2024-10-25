@@ -16,8 +16,8 @@ This project provides a simple web interface where users can input flower measur
   + **Sklearn** - To train,test, preprocess , and Classify the model metrics
 
     ## Installation
-    1. **Clone the repository**
-Download or clone this project to your local machine.
+1. **Clone the repository**
+   Download or clone this project to your local machine.
 2. Navigate into the project directory
 3. Create and activate a virtual environment
 4. Install the required dependencies 
@@ -26,7 +26,7 @@ Download or clone this project to your local machine.
    _python app.py_
 
    ## Usage
-   1. Open your web browser and go to http://127.0.0.1:5000.
+1. Open your web browser and go to http://127.0.0.1:5000.
 2. Enter the measurements for the Iris flower in the provided input fields.
 3. Click "Predict" to see the model’s prediction of the flower species.
 
