@@ -1,6 +1,6 @@
 # Iris-Flower-Species-Prediction
 A Flask-based web application to predict the species of Iris flowers using a machine learning model.
-This project provides a simple web interface where users can input flower measurements, and the app returns a prediction of the flower species based on the trained machine learning model.
+This project provides a simple web interface where users can input flower measurements, and the app returns a prediction of the flower species based on the trained machine learning model trained using RandomForest.
 
 ## Files in This Project
 + **app.py** - The main Flask application script
